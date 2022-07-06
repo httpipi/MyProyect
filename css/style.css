@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
 
 * {
-    box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
@@ -30,6 +29,11 @@ li{
     list-style: none;
     padding: 0;
     border: 1.5em;
+}
+
+.carrusel{
+    padding-right: 20%;
+    padding-left: 20%;
 }
 
 .env-header {
